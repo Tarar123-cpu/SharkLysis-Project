@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![SharkLysis Banner](https://github.com/kh44key/SharkLysis/blob/main/assests/banner.png)  
 # SharkLysis - Advanced Network Forensic Analysis Toolkit
 
@@ -133,3 +134,6 @@ pip install -r requirements-dev.txt
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+=======
+# SharkLysis-Project
+>>>>>>> ce0b3142e948e676dbbbbb973a0edd3baaf3dda6
